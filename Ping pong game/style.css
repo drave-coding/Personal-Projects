@@ -1,0 +1,39 @@
+#gameContainer{
+    text-align: center;
+
+}
+#gameBoard{
+    border: 3px solid ;
+
+}
+
+#scoreText{
+    font-family: "consolas","Mariolas";
+    font-size: 100px;
+}
+
+#resetBtn{
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+#startBtn{
+    display: block;
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    
+    
+    background-color: red;
+    color: white;
+    border: 4px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 100%;
+    height: 100px;
+    
+}
