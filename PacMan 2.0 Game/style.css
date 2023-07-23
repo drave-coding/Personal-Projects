@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+    background-color: black;
+    padding: 10px 20px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
